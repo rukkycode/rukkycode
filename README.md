@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Youtube Channel: https://www.youtube.com/channel/UC1j7ccJRKhO6dnsZasMPzzA
-Twitch Profile: https://www.twitch.tv/Itz_RukkyDevGamer
-Discord Server for Dev: https://discord.com/channels/826816369302831124/826816369302831127
-Discord Server for Gaming: https://discord.com/channels/909439744130306048/909439747334766603
+Twitch Profile: https://www.twitch.tv/Itz_Rukky
+Discord Server for Dev: https://discord.com/invite/RwCommunity
+Discord Server for Gaming: discord.gg/Itz_Rukky
