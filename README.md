@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rukkycode
 - 👀 I’m interested in ... Creating Content and Apps
-- 🌱 I’m currently learning ... 3d web Development
+- 🌱 I’m currently learning ... full stack development
 - 💞️ I’m looking to collaborate on ... https://youtube.com and https://twitch.tv
 - 📫 How to reach me ... First subscribe to trr kids on youtube then email rukkynowlinked@gmail.com
 
